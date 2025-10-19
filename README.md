@@ -1,7 +1,11 @@
 // Vibe coded ( GRok & Deepseek ) header to allow TZ management across Sydney, New York and London Sessions.
+
 // Includes DST calculations
+
 // NOT FULLY TESTED - USE AT YOUR OWN RISK
+
 // NO WARRANTY GIVEN OR IMPLIED
+
 //+------------------------------------------------------------------+
 //| Usage Instructions                                              |
 //+------------------------------------------------------------------+
